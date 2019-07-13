@@ -1,0 +1,32 @@
+body {
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji","Microsoft JhengHei";
+}
+
+.bg-lightgreen {
+	background-color:#5BC534
+}
+
+.bg-purple {
+	background-color:#9933ff
+}
+.bg-gray {
+	background-color:#7B7D73
+}
+
+.thead-lightyellow{
+	background-color:#FFFF9A
+}
+
+.side-btn{
+	font-size: 18px;
+	color: #25992D;
+	background-color: white;
+	text-align: center;
+	border: 1px solid #25992D;
+	margin-bottom:8px;
+}
+
+
+
+
+
